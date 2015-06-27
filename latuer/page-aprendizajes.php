@@ -1,0 +1,25 @@
+<?php
+/*
+Template Name: Página para Aprendizajes
+*/
+?>
+
+<?php get_header(); ?>
+
+
+
+<div class="row">
+  <div class="col-md-8"><div class="cajas"></div></div>
+  <div class="col-md-4"><div class="cajas"></div></div>
+
+
+<p align="left">&nbsp;</p>
+
+  <div class="col-md-8"><div class="cajas"> </div></div>
+  <div class="col-md-4"><div class="cajas"> afdaf </div>
+
+</div>
+</div>
+
+
+<?php get_footer(); ?>
